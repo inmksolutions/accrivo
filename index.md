@@ -1,6 +1,9 @@
 ---
-[Home](index) | [Privacy Policy](privacy)
+layout: default
+title: Home
 ---
+
+[Home](index.html) | [Privacy Policy](privacy.html)
 
 # 📊 Accrivo — Privacy-First Personal Finance App
 
