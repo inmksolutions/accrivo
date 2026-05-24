@@ -1,6 +1,9 @@
 ---
-[Home](index) | [Privacy Policy](privacy)
+layout: default
+title: Privacy Policy
 ---
+
+[Home](index.html) | [Privacy Policy](privacy.html)
 
 # Privacy Policy for Accrivo
 
