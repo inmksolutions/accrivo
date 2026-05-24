@@ -3,7 +3,7 @@ layout: default
 title: Privacy Policy
 ---
 
-[Home](index.html) | [Privacy Policy](privacy.html)
+[Home](/accrivo/) | [Privacy Policy](/accrivo/privacy.html)
 
 # Privacy Policy for Accrivo
 
