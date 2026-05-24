@@ -1,4 +1,8 @@
 ---
+layout: default
+title: Home
+---
+---
 [Home](index) | [Privacy Policy](privacy)
 ---
 
