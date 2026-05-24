@@ -1,19 +1,3 @@
-remote_theme: just-the-docs/just-the-docs
+theme: jekyll-theme-cayman
 title: Accrivo
-description: Privacy-First Personal Finance App
-url: https://inmksolutions.github.io/accrivo
-# Just the Docs specific settings
-color_scheme: dark # Or 'light' if you prefer
-search_enabled: true
-heading_anchors: true
-
-logo: "/logo.png"
-# Add a button in the top right corner linking to your app's GitHub or App Store
-github_url: "https://github.com/inmksolutions/accrivo"
-github_button: true
-# Add custom links to the top right header navigation
-aux_links:
-  "Download App": "https://link-to-your-app.com"
-  "Contact Support": "mailto:in.mk.solutions@gmail.com"
-# Add a professional copyright footer to the bottom of every page
-footer_content: "Copyright &copy; 2026 MK Solutions. All rights reserved."
+description: Private by Design, Ahead by Insights!
