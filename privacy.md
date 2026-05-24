@@ -1,9 +1,3 @@
-<div style="text-align: center; margin-bottom: 2rem;">
-  <a href="index.html" class="btn">Home</a>
-  <a href="PRIVACY_POLICY.html" class="btn">Privacy Policy</a>
-  <a href="https://github.com/inmksolutions/accrivo" class="btn">View on GitHub</a>
-</div>
-
 # Privacy Policy for Accrivo
 
 **Last Updated:** 2026-05-24
