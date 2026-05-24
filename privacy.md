@@ -1,3 +1,7 @@
+---
+[Home](index) | [About](about) | [Privacy Policy](privacy)
+---
+
 # Privacy Policy for Accrivo
 
 **Last Updated:** 2026-05-24
