@@ -1,0 +1,5 @@
+/* Reduce the header height */
+.page-header {
+  padding: 2rem 1rem; /* Adjust 2rem to be smaller (e.g., 1rem) for less height */
+  background-image: linear-gradient(120deg, #155799, #159957);
+}
