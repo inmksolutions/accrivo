@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[Home](index.html) | [Privacy Policy](privacy.html)
+[Home](/accrivo/) | [Privacy Policy](/accrivo/privacy.html)
 
 # 📊 Accrivo — Privacy-First Personal Finance App
 
