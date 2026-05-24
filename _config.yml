@@ -1,3 +1,8 @@
-theme: jekyll-theme-cayman
+theme: just-the-docs
 title: Accrivo
-description: Clean, Minimal, and Private Financial System
+description: Privacy-First Personal Finance App
+url: https://inmksolutions.github.io/accrivo
+# Just the Docs specific settings
+color_scheme: dark # Or 'light' if you prefer
+search_enabled: true
+heading_anchors: true
