@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 📊 Accrivo — Privacy-First Personal Finance App
 
 **Accrivo** is a privacy-first personal finance application designed to go beyond traditional expense tracking. It provides a **lightweight accounting system with an intuitive user experience**, ensuring financial accuracy without overwhelming the user.
