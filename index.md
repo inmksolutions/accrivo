@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: '[Home](/accrivo/) | [Privacy Policy](/accrivo/privacy.html)'
 ---
 
 [Home](/accrivo/) | [Privacy Policy](/accrivo/privacy.html)
