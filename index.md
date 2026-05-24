@@ -1,9 +1,3 @@
-<div style="text-align: center; margin-bottom: 2rem;">
-  <a href="index.html" class="btn">Home</a>
-  <a href="PRIVACY_POLICY.html" class="btn">Privacy Policy</a>
-  <a href="https://github.com/inmksolutions/accrivo" class="btn">View on GitHub</a>
-</div>
-
 # 📊 Accrivo — Privacy-First Personal Finance App
 
 **Accrivo** is a privacy-first personal finance application designed to go beyond traditional expense tracking. It provides a **lightweight accounting system with an intuitive user experience**, ensuring financial accuracy without overwhelming the user.
