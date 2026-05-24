@@ -1,8 +1,8 @@
 ---
+title: Privacy Policy
 layout: default
-title: '[Home](/accrivo/) | [Privacy Policy](/accrivo/privacy.html)'
+nav_order: 2
 ---
-
 # Privacy Policy for Accrivo
 
 **Last Updated:** 2026-05-24
