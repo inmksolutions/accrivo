@@ -20,10 +20,10 @@ Accrivo operates on an offline-first architecture. We do not store, process, or 
 
 ## 2. Information We Do Not Collect
 
-Because Accrivo is designed for maximum privacy, we **do not** collect:
-- Personal Identifiable Information (PII) such as your name, email address, or phone number.
-- Financial data, account balances, or transaction histories.
-- Usage analytics or tracking data that identifies you.
+While we use some basic analytics to improve the app, Accrivo is designed for maximum privacy. We **strictly do not** collect or transmit:
+- Personal Identifiable Information (PII) such as your name, email address, or phone number (unless you explicitly provide it for a specific service).
+- **Financial data, account balances, categories, budgets, or transaction histories.** This data never leaves your device unless you manually back it up.
+
 
 ## 3. Optional Google Drive Sync
 
@@ -41,7 +41,14 @@ You have total control over your financial data. At any time, you can:
 
 ## 5. Third-Party Services
 
-Aside from the optional Google Drive synchronization, Accrivo does not integrate with third-party tracking, advertising, or analytics services that harvest your data.
+To ensure app stability, improve user experience, and manage premium entitlements/referrals, Accrivo utilizes the following third-party services:
+
+- **Google Firebase Analytics:** We collect anonymized usage data (such as which screens are visited and features are used) to help us understand how to improve the app. This data is aggregated and does not contain any of your financial information.
+- **Google Firebase Crashlytics:** If the app crashes, an anonymous crash report is sent to help us identify and fix the bug.
+- **Firebase Authentication & RevenueCat:** Used anonymously to manage your app installation ID, track successful referrals, and manage PRO tier entitlements.
+- **Google Drive (Optional):** Used solely if you opt-in to secure cloud backups of your encrypted local database.
+
+Accrivo **does not** integrate with third-party advertising networks that harvest or sell your data.
 
 ## 6. Changes to This Privacy Policy
 
@@ -49,4 +56,4 @@ We may update our Privacy Policy from time to time. If we make significant chang
 
 ## 7. Contact Us
 
-Since we do not collect your personal data, we do not have an account system or customer database. However, if you have questions or suggestions regarding our Privacy Policy, please refer to the project repository or contact the developer directly.
+We do not maintain a centralized customer database of personal identities. However, if you have questions or suggestions regarding our Privacy Policy, please refer to the project repository or contact the developer directly.
