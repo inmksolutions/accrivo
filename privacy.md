@@ -1,5 +1,5 @@
 ---
-[Home](index) | [About](about) | [Privacy Policy](privacy)
+[Home](index) | [Privacy Policy](privacy)
 ---
 
 # Privacy Policy for Accrivo
