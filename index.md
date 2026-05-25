@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-# <img src="logo.png" alt="logo" width="50" style="vertical-align: middle;"> Accrivo — Privacy-First Personal Finance App
+# <img src="logo.png" alt="logo" width="50" style="vertical-align: middle;"> Accrivo — Private by Design, Ahead by Insight!
 
-**Accrivo** is a privacy-first personal finance application designed to go beyond traditional expense tracking. It provides a **lightweight accounting system with an intuitive user experience**, ensuring financial accuracy without complexity.
+**Accrivo** is a privacy-first personal finance application designed to go beyond traditional expense tracking with double-entry bookkeeping. It provides a **lightweight accounting system with an intuitive user experience**, ensuring financial accuracy without complexity.
+
 
 ---
 
