@@ -3,141 +3,93 @@ layout: default
 ---
 # <img src="logo.png" alt="logo" width="50" style="vertical-align: middle;"> Accrivo — Private by Design, Ahead by Insight!
 
-**Accrivo** is a privacy-first personal finance application designed to go beyond traditional expense tracking with double-entry bookkeeping. It provides a **lightweight accounting system with an intuitive user experience**, ensuring financial accuracy without complexity.
+**Accrivo** is the ultimate privacy-first personal finance manager designed to give you absolute control over your money and accruals. 
+Going beyond simple expense tracking, Accrivo brings **professional double-entry bookkeeping** to your fingertips in a beautiful, intuitive interface. 
 
+Take back control of your wealth with perfect accuracy, without compromising your data.
 
 ---
 
 ## 🚀 Why Accrivo?
 
-Most finance apps fall into two categories:
+Most finance apps fall into two extremes:
+- ❌ **Simple trackers** (easy to use, but financially inaccurate)  
+- ❌ **Complex accounting tools** (accurate, but overwhelming and hard to use)  
 
-- ❌ Simple trackers (easy but inaccurate)  
-- ❌ Complex accounting tools (accurate but hard to use)  
-
-**Accrivo bridges this gap** by combining:
-
-- ✅ Accounting-level correctness  
-- ✅ Clean, minimal user experience  
-- ✅ Complete privacy (offline-first approach)  
+**Accrivo bridges this gap** by delivering:
+- ✅ **Accounting-level correctness** (Double-entry principles)
+- ✅ **Beautiful, modern user experience** (including Dark Mode)
+- ✅ **Absolute Privacy** (Offline-first, 100% data ownership)
 
 ---
 
 ## 🧠 Core Philosophy
 
-### 1️⃣ Balanced Financial System
+### 1️⃣ Master Your Accruals (The Heart of Accrivo)
+"Accrivo" stands for the *accruals* in your life. We believe financial health isn't just about what's in your bank today—it's about understanding what you owe and what is owed to you. Seamlessly manage pending dues, loans, and future financial commitments so you are never caught off guard.
 
-Every financial activity is treated as a **balanced transaction**, ensuring:
+### 2️⃣ Professional Double-Entry Bookkeeping
+Every financial activity is treated as a **balanced transaction**. Instead of dumbing down your finances, Accrivo accurately models:
+- 💼 **Assets** (what you own)  
+- 💳 **Liabilities** (what you owe)  
+- 🔄 **Cash flow** (the movement of money)  
 
-- ✔️ No inconsistencies in data  
-- ✔️ Accurate financial insights  
-- ✔️ Reliable long-term tracking  
-
----
-
-### 2️⃣ True Financial Representation
-
-Instead of simplifying finances incorrectly, Accrivo models:
-
-- 💼 Assets (what you own)  
-- 💳 Liabilities (what you owe)  
-- 🔄 Cash flow (movement of money)  
-
-This enables a **complete picture of your financial health**.
-
----
+This guarantees no data inconsistencies and provides a **true picture of your financial health**.
 
 ### 3️⃣ Liability-Aware Design
+Debt is handled intelligently. Credit cards and dues are tracked with context, focusing on your **true available spending capacity** rather than just raw balances, encouraging smarter financial decisions.
 
-Debt is handled intelligently:
-
-- 💳 Credit cards and loans are tracked with context  
-- 📊 Focus on **available spending capacity**, not just balances  
-- 🎯 Encourages better financial decisions  
-
----
-
-### 4️⃣ Privacy First 🔒
-
-- 📵 No data is stored in Accrivo server
-- 📱 Works offline by default  
-- 🧑‍💻 Your data stays on your device. Optional Google Drive sync
+### 4️⃣ 100% Privacy First 🔒
+- 📵 **No forced cloud syncs & no data harvesting.**
+- 📱 **Works offline by default.** Your data stays on your device.
+- 🧑‍💻 **Secure encrypted backups** to your own personal Google Drive.
+- 🛡️ **Biometric App Lock** (Fingerprint security) keeps prying eyes out.
 
 ---
 
 ## ✨ Key Features
 
-### 💰 Smart Transaction Tracking
-
-- Expense, income, and transfers  
-- Accurate financial recording (not just logs)  
-
----
+### 🏛️ Multi-Account & Ledger Management
+Manage multiple bank accounts, wallets, and credit cards in one place. Easily transfer funds between accounts while maintaining a flawless ledger history.
 
 ### 🧾 Dues & Obligations
+Track pending payments and receivables. Always know exactly who owes you money and who you need to pay back.
 
-- Track pending payments and receivables  
-- Monitor what you owe and what others owe you  
+### 🎯 Smart Budget Planning
+Plan your spending with customizable category budgets. Track actual vs. projected spending, and carry forward unused budgets (rollover support).
 
----
+### 🔄 Recurring Automation
+Automate your financial life. Set up recurring subscriptions, rules, and bills to reduce manual effort and never miss an entry.
 
-### 🔁 Recurring Automation
-
-- Automate regular transactions  
-- Reduce manual effort and missed entries  
-
----
-
-### 📊 Budgeting with Intelligence
-
-- Plan and monitor budgets  
-- Track actual vs projected spending  
-- Carry forward unused budget (rollover support)  
-
----
-
-### 📉 Financial Insights
-
-- Understand spending patterns  
-- Track trends over time  
-- Make informed decisions  
-
----
-
-### 📤 Data Control
-
-- Export your financial data anytime  
-- Backup and restore capabilities  
+### 📈 Deep Financial Insights
+Visualize your wealth with stunning charts and reports. Understand spending patterns, track trends, and make data-driven decisions to grow your savings.
 
 ---
 
 ## 🏗️ Design Principles
-
-- ⚖️ Accuracy is non-negotiable  
-- 🧩 Simplicity in experience, not in logic  
-- 🎛️ User control over automation  
-- 🔍 Transparency in financial state  
+- ⚖️ **Accuracy is non-negotiable**  
+- 🎨 **Simplicity in experience, not in logic**  
+- 🎛️ **Complete user control over automation**  
+- 🔍 **Total transparency in financial state**  
 
 ---
 
 ## 🎯 Who is this for?
 
 Accrivo is ideal for:
-
-- 👤 Individuals who want **more than expense tracking**  
-- 🔐 Users who value **privacy and data ownership**  
-- 📈 People looking for **long-term financial clarity**  
+- 👤 Individuals who want **more than a basic expense tracker**.
+- 🔐 Users who demand **privacy, security, and data ownership**.
+- 📈 People looking for **long-term financial clarity and wealth growth**.
 
 ---
 
 ## 🛣️ Roadmap (High-Level)
-
 - 🚀 Enhanced insights & analytics  
 - 🤖 Smarter automation rules  
 - 📊 Improved budgeting workflows  
-- ☁️ Optional secure backup integrations  
+- ☁️ Advanced secure backup integrations  
 
+---
 
 ## ⚠️ Note
-
 This repository intentionally avoids exposing internal system architecture and implementation details to maintain security and flexibility in development.
