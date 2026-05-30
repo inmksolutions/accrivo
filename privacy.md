@@ -1,6 +1,6 @@
 # Privacy Policy for Accrivo
 
-**Last Updated:** 2026-05-24
+**Last Updated:** 2026-05-31
 
 Welcome to **Accrivo**, a privacy-first personal finance application. Your privacy is critically important to us. This Privacy Policy outlines our guidelines concerning the data you enter into our application and your rights regarding that data.
 
@@ -16,7 +16,7 @@ Accrivo operates on an offline-first architecture. We do not store, process, or 
 While we use some basic analytics to improve the app, Accrivo is designed for maximum privacy. We **strictly do not** collect or transmit:
 - Personal Identifiable Information (PII) such as your name, email address, or phone number (unless you explicitly provide it for a specific service).
 - **Financial data, account balances, categories, budgets, or transaction histories.** This data never leaves your device unless you manually back it up.
-
+- **Biometric Data:** If you enable App Lock, your fingerprint or face data is processed securely by your device's operating system. Accrivo never accesses, collects, or stores your biometric data.
 
 ## 3. Optional Google Drive Sync
 
@@ -36,12 +36,11 @@ You have total control over your financial data. At any time, you can:
 
 To ensure app stability, improve user experience, and manage premium entitlements/referrals, Accrivo utilizes the following third-party services:
 
-- **Google Firebase Analytics:** We collect anonymized usage data (such as which screens are visited and features are used) to help us understand how to improve the app. This data is aggregated and does not contain any of your financial information.
+- **Google Firebase Analytics:** We collect anonymized usage data (such as which screens are visited) and utilize anonymous device identifiers (like the Android Advertising ID) to help us understand how to improve the app. This data does not contain any of your financial information.
 - **Google Firebase Crashlytics:** If the app crashes, an anonymous crash report is sent to help us identify and fix the bug.
 - **Firebase Authentication & RevenueCat:** Used anonymously to manage your app installation ID, track successful referrals, and manage PRO tier entitlements.
 - **Google Drive (Optional):** Used solely if you opt-in to secure cloud backups of your encrypted local database.
-
-Accrivo **does not** integrate with third-party advertising networks that harvest or sell your data.
+- **Advertising Networks:** To keep the free version of Accrivo sustainable, we may integrate third-party advertising networks (such as Google AdMob). These networks may use anonymous device identifiers to serve ads.
 
 ## 6. Changes to This Privacy Policy
 
