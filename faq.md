@@ -27,6 +27,12 @@ Welcome to the official Accrivo FAQ. This guide covers every feature in the app 
 **Q: Does Accrivo send my financial data to a server?**
 **A:** No. Accrivo is **offline-first**. Your financial data is stored locally on your device only. There are no forced cloud syncs. The optional Google Drive backup is initiated only by you, and the backup file is saved directly in your own Drive.
 
+**Q: Do you track my usage or send crash reports?**
+**A:** We use Firebase for anonymized analytics and crash reporting to improve the app. However, you have **Total Telemetry Control**. You can easily opt out of Analytics, Crashlytics, and Cloud Messaging directly from the app's settings.
+
+**Q: Is there any fraud prevention built-in?**
+**A:** Yes. We utilize the Google Play Integrity API and Cloudflare to prevent fraudulent installations and secure our referral system, ensuring fair play without accessing your personal financial data.
+
 **Q: Can I lock the app for extra security?**
 **A:** Yes. Navigate to **Settings → Security & Lock** to configure a PIN-based lock. Once enabled, the app will require your biometric (fingerprint/face) or PIN to open. The lock screen also uses a security question as a fallback recovery method.
 
@@ -110,37 +116,31 @@ Accounts are organized in three sections:
 
 ## 4. Adding & Editing Transactions
 
-The transaction entry form is the most powerful screen in the app. It supports four different types of financial activities.
+The transaction entry form is the most powerful screen in the app. It supports two different modes to fit your workflow: **Standard Mode** and **Advanced Ledger Mode**. You can switch between them in Settings.
 
 **Navigation:** Tap the **`+` (Add) floating button** anywhere, or from a ledger, or from the App Drawer → **Add Transaction**.
 
-### Transaction Types (Tab Bar at Top):
+### 1. Standard Mode (Intent-Based)
+Best for most users. It provides a guided, step-by-step form based on your intent.
+- **Expense (↑):** Money leaving your account (e.g., groceries). Select where the money is coming FROM, then choose an Expense Category.
+- **Income (↓):** Money coming into your account (e.g., salary). Choose an Income Category (source), then select where the money is going TO.
+- **Transfer (⇄):** Moving money between your own accounts. Select the FROM account and the TO account.
 
-| Icon | Type | Use Case |
-|---|---|---|
-| ↑ (Upload) | **Expense** | Money leaving your account (e.g., groceries, bills) |
-| ↓ (Download) | **Income** | Money coming into your account (e.g., salary, freelance) |
-| ⇄ (Arrows) | **Transfer** | Moving money between your own accounts |
-| 🤝 (Handshake) | **Loan** | Lending money, borrowing money, or settling a debt |
+### 2. Advanced Ledger Mode (Auto-Detect)
+Best for power users. A lightning-fast, single-screen interface.
+Instead of manually selecting Expense/Income/Transfer tabs, you simply select two accounts. The app **automatically detects** the transaction type based on the accounts you choose (e.g., selecting Wallet and Bank automatically creates a Transfer).
 
-### How to add a transaction:
-
-1. **Select the type** — Tap one of the four tabs at the top (Expense, Income, Transfer, Loan).
-2. **Set the Date** — Tap the date field to open a date picker. Defaults to today.
-3. **Select Account(s):**
-   - *Expense:* Select the account money is coming FROM, then choose a Category.
-   - *Income:* Choose a Category (source), then select the account money is going TO.
-   - *Transfer:* Select the FROM account and the TO account.
-   - *Loan:* Select the bank/wallet account and the Person, then choose Lend / Borrow / Settle.
-4. **Add a Description** — Enter a note for the transaction (e.g., "Amazon Order").
-5. **Enter the Amount** — Use the large amount field at the bottom. Tap the currency symbol area to type.
-6. **Tap "Save Transaction"** — The button at the very bottom confirms and saves.
+### Transaction Live Preview
+As you fill out the form, Accrivo generates a real-time, natural language visual preview of the transaction's impact before you even save it, guaranteeing absolute accuracy.
 
 **Q: Can I split a transaction across multiple categories?**
 **A:** Yes. For Expense and Income transactions, tap **"+ Add Split"** to add another category row. Each row has its own amount and category. The total of all splits should match the header amount. The header amount auto-calculates from the splits unless you manually type it.
 
 **Q: Can I backdate a transaction?**
 **A:** Yes. Tap the **Transaction Date** field and pick any past date.
+
+**Q: Can I attach receipts to my transactions?**
+**A:** Yes! You can attach photos of your receipts directly to a transaction. These images are stored **strictly locally** on your device and are never uploaded to our servers, maintaining your absolute privacy.
 
 **Q: How do I edit or delete a transaction?**
 **A:** Tap any transaction from a ledger or the Recent Activity list on the Dashboard. The same "Add Transaction" form opens in **Edit Mode**, pre-filled with the existing data. A **delete (trash) icon** appears in the top-right to remove it.
@@ -170,7 +170,7 @@ Dues are automatically sorted into three collapsible groups:
 Tap any section header to collapse or expand it.
 
 **Q: How do I add a due/accrual?**
-**A:** Dues are created automatically when you add a **Loan** type transaction (Lending or Borrowing). You can also have a **Recurring Rule** create a due reminder automatically on a schedule.
+**A:** Dues are created automatically when you use **Advanced Ledger Mode** to transfer money between a Bank/Wallet and a Person account (Lending or Borrowing). You can also have a **Recurring Rule** create a due reminder automatically on a schedule.
 
 **Q: How do I settle (mark as paid) a due?**
 **A:** Tap on any due card. A **Settle Options** dialog will appear, letting you record a partial or full settlement payment, which automatically creates the corresponding transaction.
@@ -317,7 +317,7 @@ Each rule card shows:
 **A:** Yes. Tap any rule card to open it in Edit mode.
 
 **Q: What are "Loan Repayment" rules?**
-**A:** When you create a Loan transaction with an installment repayment schedule, Accrivo automatically creates a **Loan Repayment** recurring rule to track the repayment schedule. These are marked with the `LOAN REPAYMENT` badge and linked to the original loan transaction.
+**A:** When you record a transaction involving a Person with an installment repayment schedule, Accrivo automatically creates a **Loan Repayment** recurring rule to track the schedule. These are marked with the `LOAN REPAYMENT` badge and linked to the original transaction.
 
 ---
 
@@ -408,8 +408,8 @@ Customize your Accrivo experience, manage backups, and control security.
 
 #### 🔵 Privacy & About
 
-**Analytics & Stability**
-- Toggle to share (or not share) anonymous crash reports and usage data to help improve the app.
+**Analytics, Stability & Cloud Messaging**
+- Toggle to share (or not share) anonymous crash reports and usage data. You can also opt out of Firebase Cloud Messaging (FCM) token uploads, while still receiving anonymous app announcements.
 
 **Send Feedback**
 - Tap to open a feedback form where you can report a bug or suggest a new feature.
