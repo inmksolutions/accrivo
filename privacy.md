@@ -30,8 +30,9 @@ To help you secure your data against device loss, Accrivo offers an **optional**
 You have total control over your financial data. At any time, you can:
 - **Export your data:** Export your financial records in standard formats to manage outside the app.
 - **Backup and Restore:** Manually create backups of your data and restore them when needed.
-- **Delete your data:** Because your data is stored locally, uninstalling the app or clearing the app's data from your device settings will permanently delete all your financial records from that device.
-
+- **Delete your local data:** Because your data is stored locally, uninstalling the app or clearing the app's data from your device settings will permanently delete all your financial records from that device.
+- **Delete your App Account:** If you have chosen to sign in using Google (Firebase Auth) to enable cloud backups or manage premium features, you may request the permanent deletion of your associated app account and any associated cloud data by contacting the developer directly at in.mk.solutions@gmail.com.
+  
 ## 🔓 5. Why We Ask For Permissions
 
 To enable advanced features, Accrivo may request specific device permissions. We respect your privacy and handle these permissions as follows:
