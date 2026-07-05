@@ -13,7 +13,7 @@ Accrivo is designed for people who have outgrown basic expense trackers but do n
 <a href="https://play.google.com/store/apps/details?id=com.mksolutions.accrivo">
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="65">
 </a>
----
+
 
 # Why Accrivo Exists
 
