@@ -1,116 +1,269 @@
 ---
 layout: default
 ---
-# <img src="logo.png" alt="logo" width="50" style="vertical-align: middle;"> Accrivo — Private by Design, Ahead by Insight
+# <img src="logo.png" alt="logo" width="50" style="vertical-align: middle;"> Accrivo — Your Personal Financial Operating System
 
-**Accrivo** is the ultimate privacy-first personal finance manager designed to give you absolute control over your money and accruals. 
-Going beyond simple expense tracking, Accrivo brings **professional double-entry bookkeeping** to your fingertips in a beautiful, intuitive interface. 
+**Privacy-first. Accounting-grade. Surprisingly simple.**
 
-Take back control of your wealth with perfect accuracy, without compromising your data.
+Accrivo is designed for people who have outgrown basic expense trackers but do not want the complexity of traditional accounting software. It helps you understand your complete financial life — what you own, what you owe, what is owed to you, and where your money is moving — while keeping your data entirely under your control.
+
+> **Start as simply as an expense tracker. Grow into a complete wealth management system without changing apps or losing your history.**
+
+&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.mksolutions.accrivo">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="65">
+</a>
+---
+
+# Why Accrivo Exists
+
+Most finance apps force a compromise:
+
+- **Simple expense trackers** are easy to use but often provide an incomplete picture of your finances.
+- **Traditional accounting tools** are accurate but feel overwhelming for everyday users.
+
+Accrivo combines the best of both worlds.
+
+### ✅ Accounting-grade accuracy
+**Accuracy**  
+Professional double-entry bookkeeping runs silently in the background, ensuring your financial records always remain balanced and reliable.
+
+### ✨ Zero accounting knowledge required
+**Simplicity**  
+Record transactions naturally while Accrivo handles the accounting logic for you.
+
+### 📈 Deep financial insights
+**Insights**  
+Go beyond expense tracking with credit monitoring, cash-flow analysis, savings metrics, and wealth insights.
+
+### 🛡️ Absolute data ownership
+**Privacy**  
+Offline-first and zero-knowledge by design. Your financial data stays under your control.
 
 ---
 
-## 🚀 Why Accrivo?
-
-Most personal finance apps force you to compromise. You either get:
-- ❌ **Simple expense trackers** that are easy to use but financially inaccurate.
-- ❌ **Complex accounting tools** that are accurate but feel like a sterile spreadsheet.
-
-**Accrivo refuses to compromise.** We built the ultimate middle ground:
-- ✅ **Flawless Accuracy:** Professional double-entry bookkeeping running silently under the hood.
-- ✅ **Actionable Intelligence:** Go beyond basic tracking with cycle-aware credit monitoring, smart budgeting, and deep wealth insights.
-- ✅ **Premium Experience:** A stunning, highly responsive Glassmorphism interface you'll actually *want* to use every day.
-- ✅ **Absolute Privacy:** Offline-first, zero-knowledge architecture. Your wealth data belongs to you alone.
+# The Accrivo Philosophy
 
 ---
 
-## 🧠 How We Think About Money (Our Core Philosophy)
-
-### 1️⃣ Master Your Accruals (The Heart of Accrivo)
-"Accrivo" stands for the *accruals* in your life. We believe financial health isn't just about what's in your bank today—it's about understanding what you owe and what is owed to you. Seamlessly manage pending dues, loans, and future financial commitments so you are never caught off guard.
-
-### 2️⃣ Double-Entry, Zero Headaches
-Every financial activity is treated as a **balanced transaction**. Instead of dumbing down your finances, Accrivo accurately models:
-- 💼 **Assets** (what you own)  
-- 💳 **Liabilities** (what you owe)  
-- 🔄 **Cash flow** (the movement of money)  
-
-This guarantees no data inconsistencies and provides a **true picture of your financial health**.
-
-### 3️⃣ Debt Handled Intelligently
-Debt is handled intelligently. Credit cards and dues are tracked with context, focusing on your **true available spending capacity** rather than just raw balances, encouraging smarter financial decisions.
-
-### 4️⃣ Your Data is Nobody's Business but Yours 🔒
-- 📵 **No forced cloud syncs & no data harvesting.**
-- 📱 **Works offline by default.** Your financial data stays entirely on your device, giving you absolute ownership.
-- 🛡️ **Zero-Knowledge Architecture.** We don't see your data, we don't sell your data. You choose if, when, and where your data is backed up.
+### ✅ 1. Master Your Accruals
+Financial health is not just about today's bank balance. It is also about future commitments, pending dues, loans, and money owed to you. Accrivo helps you manage these accruals so you always understand your true financial position.
 
 ---
 
-## ✨ The Arsenal (Key Features)
+### ✅ 2. Double-Entry, Zero Headaches
+Every transaction is accurately modeled as a balanced financial event involving assets, liabilities, income, expenses, and cash flow — without requiring you to think in accounting terms.
 
-### 🏦 Accounts Management
-Manage a diverse portfolio including Bank Accounts, Wallets, Physical Investments, and Liabilities. Smartly group and order accounts, and use the privacy toggle to instantly mask sensitive balances.
+---
+
+### ✅ 3. Debt with Context
+Instead of showing raw balances alone, Accrivo tracks credit utilization, billing cycles, and available spending capacity to help you make smarter financial decisions.
+
+---
+
+### ✅ 4. Privacy by Default
+No forced cloud sync. No data harvesting. No selling of financial information. You decide if, when, and where your data is backed up.
+
+---
+
+# What Makes Accrivo Different?
+
+Most finance apps answer one question:
+
+> **“What did I spend?”**
+
+Accrivo answers the complete set:
+
+- What do I own?
+- What do I owe?
+- Who owes me money?
+- What are my future financial commitments?
+- How healthy is my credit usage?
+- How much wealth am I building?
+- Where is every rupee moving?
+
+That is why Accrivo is more than an expense tracker — it is a **personal financial operating system**.
+
+---
+
+# The Four Pillars of Accrivo
+
+---
+
+### ✅ Track
+Capture your day-to-day financial activity effortlessly.
+- ➕ **Income**
+- ➖ **Expenses**
+- 🔁 **Recurring**
+- 💼 **Budgets**
+
+---
+
+### 🏛️ Manage
+Organize every part of your financial life.
+- 🏦 **Accounts**
+- 💳 **Credit Cards**
+- 📈 **Investments**
+- 🤝 **Dues**
+
+---
+
+### 📊 Understand
+Turn transactions into actionable intelligence.
+- 💰 **Savings Rate**
+- 📅 **Runway**
+- 🛡️ **Debt Ratio**
+- ⏱️ **Credit Insights**
+- 🥧 **Asset Allocation**
+- 🔄 **Cash Flow**
+
+---
+
+### 🛡️ Protect
+Keep your financial data secure and private.
+- 📱 **Offline First**
+- 🔒 **Encryption**
+- ☁️ **Optional Backup**
+- 👤 **Data Ownership**
+
+---
+
+# Core Features
+
+---
+
+### 💼 Accounts Management
+**Complete portfolio view**  
+Manage bank accounts, wallets, physical investments, deposits, and liabilities in one unified system. Group, reorder, and privately mask sensitive balances whenever needed.
+
+---
 
 ### 💳 Comprehensive Credit Health
-Monitor your credit cards with cycle-aware intelligence. Track spending velocity, total credit spend, and utilization to understand your true available spending capacity and avoid debt traps.
-
-### 🗂️ Category Management
-A highly customizable system for users to organize their finances. Drag-and-drop subcategories between groups and personalize icons and colors to suit your tracking needs.
-
-### 📝 Add Transactions & Ledger Tracking
-Record everyday financial activities through standard intent-based tracking or a lightning-fast Advanced Ledger mode. Features split transactions, real-time visual previews, and customizable views.
-
-### 🔄 Recurring Transactions
-Automate your financial life. Set up custom schedules for subscriptions, bills, and income to reduce manual effort and forecast future cash flow.
-
-### 📊 Managed Dues (Lending & Borrowing)
-A dedicated tracking system for money you owe or money owed to you. Keeps a perfect, stress-free record of all lending and borrowing with friends and family.
-
-### 🎯 Budget Planning
-A powerful, envelope-style budgeting system. Plan spending limits, track category-specific goals, and transition seamlessly to new months with templates and projections.
-
-### 📈 Advanced Analytics & Reports
-High-level intelligence transforming your transaction data into actionable metrics. Monitor your Savings Rate, Runway, Debt Ratio, Credit Insights, and Asset Allocation at a glance.
-
-### 🤝 Referral System & Rewards
-A rewarding invite system where you and your friends can earn premium app credits together. Securely tracked with Google Account authentication and real-time alerts.
-
-### 🎨 Premium Design & UI
-A beautiful, highly responsive Glassmorphism interface. Personalize your experience with adaptive typography, responsive UI density (Tiny to Extra Large), and smooth micro-interactions that elevate your financial tracking.
-
-### ⚙️ App Preferences & Security
-Absolute control over your personalized environment. Secure your app with PIN or Biometrics, customize themes and currencies, and safeguard data with Google Drive Cloud Sync and local backups.
+**Cycle-aware**  
+Monitor billing cycles, utilization, spending velocity, and available spending capacity to avoid debt traps before they happen.
 
 ---
 
-## 🏗️ How We Build (Design Principles)
-- ⚖️ **Accuracy is non-negotiable**  
-- 🎨 **Simplicity in experience, not in logic**  
-- 🎛️ **Complete user control over automation**  
-- 🔍 **Total transparency in financial state**  
+### 📁 Flexible Category Management
+**Highly customizable**  
+Organize finances your way with drag-and-drop category structures, custom icons, and personalized colors.
 
 ---
 
-## 🎯 Is Accrivo Right For You?
-
-Accrivo is ideal for:
-- 👤 Individuals who want **more than a basic expense tracker**.
-- 🔐 Users who demand **privacy, security, and data ownership**.
-- 📈 People looking for **long-term financial clarity and wealth growth**.
+### 🧾 Intelligent Transaction Entry
+**Fast & visual**  
+Choose between simple intent-based entry or Advanced Ledger mode with split transactions, live previews, and customizable views.
 
 ---
 
-## 🛣️ What's Next? (The Roadmap)
-- 🏷️ **Transaction Tags:** Add custom tags to transactions for an additional layer of cross-category tracking.
-- ⚡ **One-Tap Quick Actions:** Rapidly log frequent transactions using pre-defined templates right from the dashboard.
-- 🔄 **Enhanced Recurring Rules:** More complex and flexible scheduling options for your automated finances.
-- 📷 **On-Device Receipt OCR:** Automatically extract amounts and dates from receipt photos entirely locally.
-- 👨‍👩‍👧 **Secure Household Sync:** An encrypted way for couples or families to share a ledger securely via cloud storage.
-- 💱 **Multi-Currency Travel Mode:** Seamlessly log transactions in foreign currencies with intelligent base conversions.
-- 🎯 **Goal-Based Savings Tracking:** Dedicated visual progress trackers for long-term financial goals.
+### 🔁 Recurring Transactions
+**Automated**  
+Automate subscriptions, bills, salaries, and other recurring financial activities with flexible scheduling rules.
 
 ---
 
-## ⚠️ A Quick Note on Code
-This repository intentionally avoids exposing internal system architecture and implementation details to maintain security and flexibility in development.
+### 🤝 Managed Dues
+**Lending & borrowing**  
+Maintain a stress-free record of money lent to or borrowed from friends, family, and other contacts.
+
+---
+
+### 🎯 Envelope-Style Budgeting
+**Plan ahead**  
+Set spending limits, track category goals, and carry forward budget structures seamlessly between months.
+
+---
+
+### 📊 Advanced Analytics & Reports
+**Actionable metrics**  
+View savings rate, runway, debt ratio, credit insights, asset allocation, and other wealth-focused metrics at a glance.
+
+---
+
+### 🛡️ Security & Preferences
+**Your environment**  
+Protect the app with PIN or biometrics, customize themes and currencies, and manage local or cloud backups on your terms.
+
+---
+
+# Designed to Grow With You
+
+Many users start with simple expense tracking. Accrivo is built so that your financial system can evolve without starting over.
+
+### ✨ Your journey with Accrivo
+**No data migration required**
+
+---
+
+**Day 1**  
+💼 **Track expenses**  
+Record income and expenses in the simplest possible workflow.
+
+**As you grow**  
+🏛️ **Add accounts & budgets**  
+Introduce bank accounts, wallets, recurring transactions, and budgeting.
+
+**Power mode**  
+📈 **Manage wealth**  
+Unlock investments, liabilities, accruals, credit analysis, and full financial reporting.
+
+---
+
+✅ **No app switching. No data migration. No lost history.**
+
+---
+
+# Who Is Accrivo For?
+
+**Accrivo is ideal for:**
+
+- Individuals who want more than a basic expense tracker.
+- Users who value privacy, security, and data ownership.
+- People managing multiple accounts, credit cards, investments, or liabilities.
+- Anyone seeking long-term financial clarity and wealth growth.
+- Users who want accounting-grade accuracy without learning accounting.
+
+---
+
+# Design Principles
+
+**Everything in Accrivo is built around four principles:**
+
+- **Accuracy is non-negotiable**
+- **Simplicity in experience, not in logic**
+- **User control over automation**
+- **Total transparency in financial state**
+
+---
+
+# What’s Coming Next
+
+**Our roadmap includes:**
+
+- 🏷️ Transaction Tags
+- ⚡ One-Tap Quick Actions
+- 🔄 Enhanced Recurring Rules
+- 📷 On-Device Receipt OCR
+- 👨‍👩‍👧 Secure Household Sync
+- 💱 Multi-Currency Travel Mode
+- 🎯 Goal-Based Savings Tracking
+
+---
+
+# The Accrivo Promise
+
+**You should not have to choose between simplicity, accuracy, intelligence, and privacy.**
+
+Accrivo is built to deliver all four.
+
+> **Track expenses simply today. Manage your entire financial life tomorrow.**
+
+&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.mksolutions.accrivo">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="65">
+</a>
+
+---
+
+### Transparent by Design 💎
+*Supported by users, not advertisers. Accrivo is free to use with optional premium and referral-based features. We will never harvest or monetize your financial data.*
